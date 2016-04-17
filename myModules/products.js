@@ -10,4 +10,4 @@ this.getProducts=function(request, reply,http,databases,page){
             reply(returnData);
         });
     })
-}
+};
